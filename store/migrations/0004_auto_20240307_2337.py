@@ -12,6 +12,6 @@ class Migration(migrations.Migration):
     operations = [
         migrations.RunSQL("""
                     INSERT INTO store_collection (title) 
-                    VALUES ('collection')
+                    VALUES ('collection1')
                         """)
     ]
