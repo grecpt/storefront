@@ -6,6 +6,9 @@ from store.models import Product
 
 
 def say_hello(request):
-    Product.objects
+    query_set = Product.objects.all()
+
+    for product in query_set:
+        print(product)
 
     return render(request, 'index.html', {'name': 'Rex'})
