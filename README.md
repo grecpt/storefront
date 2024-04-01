@@ -17,7 +17,7 @@ The project has helped solidify my understanding on the Django frameworks with t
  - **Securing APIs**
  - **Designing and Building the Orders API**
 
-## The Ultimate Django Series-Part 2
+## The Ultimate Django Series-Part 3
  - **Getting Started**
  - **Uploading Files**
  - **Sending Emails**
