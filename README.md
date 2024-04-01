@@ -26,4 +26,4 @@ The project has helped solidify my understanding on the Django frameworks with t
  - **Performance Testing**
  - **Caching**
  - **Prepare for Production**
- - Deployment
+ - **Deployment**
