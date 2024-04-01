@@ -1,6 +1,6 @@
 # Storefront Project
 The project has helped solidify my understanding on the Django frameworks with the knowledge and skills in following key areas:
-## The Ultimate Django Series-Part 1
+## The Ultimate Django Series Part 1
  - **Getting Started**
  - **Django Fundamentals**
  - **Building a Data Model**
@@ -8,7 +8,7 @@ The project has helped solidify my understanding on the Django frameworks with t
  - **Django ORM**
  - **The Admin Site**
 
-## The Ultimate Django Series-Part 2
+## The Ultimate Django Series Part 2
  - **Getting Started**
  - **Building RESTful APIs with Django REST Framework**
  - **Advance API Concepts**
@@ -17,7 +17,7 @@ The project has helped solidify my understanding on the Django frameworks with t
  - **Securing APIs**
  - **Designing and Building the Orders API**
 
-## The Ultimate Django Series-Part 3
+## The Ultimate Django Series Part 3
  - **Getting Started**
  - **Uploading Files**
  - **Sending Emails**
