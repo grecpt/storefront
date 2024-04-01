@@ -7,8 +7,6 @@ from store.models import Product
 
 def say_hello(request):
     query_set = Product.objects.all()
-
-    for product in query_set:
-        print(product)
+    query_set.filter().filter().order_by()
 
     return render(request, 'index.html', {'name': 'Rex'})
